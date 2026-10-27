@@ -1,0 +1,14 @@
+Settings: window 20.0s, step 2.0s, band-pass 0.5-4.0 Hz
+Recordings analysed: 17   Windows: 3927
+
+Peak-detection method:
+  MAE                 0.72 bpm
+  Median abs error    0.42 bpm
+  Windows within 5bpm 98.5%
+  Bias (est - ref)    -0.24 bpm, 95% limits of agreement -2.7 to +2.3 bpm
+
+FFT method:
+  MAE                 1.36 bpm
+  Windows within 5bpm 97.5%
+
+Worst recordings (peaks MAE): bidmc_28 (3.4), bidmc_43 (1.0), bidmc_22 (0.9)
